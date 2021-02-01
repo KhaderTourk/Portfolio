@@ -1,0 +1,2 @@
+rootProject.name='IUGFirestoreDatabase'
+include ':app'

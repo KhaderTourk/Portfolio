@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Form</string>
+    <array name="coutries">
+        <item>Palestie</item>
+        <item>Egypt</item>
+        <item>USA</item>
+        <item>Lebanon</item>
+        <item>UK</item>
+    </array>
+</resources>

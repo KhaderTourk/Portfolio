@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="7"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/tv_values"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:textColor="@color/purple_700"
+        android:gravity="center"
+        android:layout_weight="4"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/purple_700"
+            />
+        <TextView
+            android:id="@+id/tv_access"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="X"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="50sp"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:weightSum="3"
+
+        >
+        <TextView
+            android:id="@+id/tv_green"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:background="#009900"/>
+
+        <TextView
+            android:id="@+id/tv_blue"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:background="#000099"/>
+
+        <TextView
+            android:id="@+id/tv_red"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:background="#990000"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQLite Application</string>
+    <string name="sign_in" translatable="false">تسجيل الدخول</string>
+    <string name="sign_up" translatable="false">التسجيل</string>
+    <string name="id" translatable="false">رقم الهوية</string>
+    <string name="password" translatable="false">كلمة المرور</string>
+    <string name="login" translatable="false">دخول</string>
+    <string name="logout" translatable="false">خروج</string>
+    <string name="user_name" translatable="false">الاسم</string>
+    <string name="welcome" translatable="false">مرحبا</string>
+    <string name="confirm_password" translatable="false">تأكيد كلمة المرور</string>
+</resources>
