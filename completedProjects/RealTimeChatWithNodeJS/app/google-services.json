@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "815181421755",
-    "firebase_url": "https://applicationfierbase-7ddc4.firebaseio.com",
-    "project_id": "applicationfierbase-7ddc4",
-    "storage_bucket": "applicationfierbase-7ddc4.appspot.com"
+    "project_number": "378907704166",
+    "firebase_url": "https://fir-auth-ec94e.firebaseio.com",
+    "project_id": "fir-auth-ec94e",
+    "storage_bucket": "fir-auth-ec94e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:815181421755:android:9952ab81eb3801a1021d9e",
+        "mobilesdk_app_id": "1:378907704166:android:745879b0f844e05ad6a6a7",
         "android_client_info": {
-          "package_name": "com.example.applicationfierbase"
+          "package_name": "com.example.food_cart_flutter_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "815181421755-0v8cmrtc3q9juuh217419f03cr7p82ig.apps.googleusercontent.com",
+          "client_id": "378907704166-iegs4lmv9q40jpiq9ljuek7ve8r9gj68.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7_C5zOUorBGItgKIF2Zm7azk1bBKGbqc"
+          "current_key": "AIzaSyANJkHskjKtvlhLE67m7ayeJBEJ5pa24w0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "815181421755-0v8cmrtc3q9juuh217419f03cr7p82ig.apps.googleusercontent.com",
+              "client_id": "378907704166-iegs4lmv9q40jpiq9ljuek7ve8r9gj68.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -37,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:815181421755:android:0ac1e4a22bf11798021d9e",
+        "mobilesdk_app_id": "1:378907704166:android:5298bfcf1fbbbb14d6a6a7",
         "android_client_info": {
-          "package_name": "com.example.finalproject"
+          "package_name": "com.example.splashandviewbager"
         }
       },
       "oauth_client": [
         {
-          "client_id": "815181421755-0v8cmrtc3q9juuh217419f03cr7p82ig.apps.googleusercontent.com",
+          "client_id": "378907704166-iegs4lmv9q40jpiq9ljuek7ve8r9gj68.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7_C5zOUorBGItgKIF2Zm7azk1bBKGbqc"
+          "current_key": "AIzaSyANJkHskjKtvlhLE67m7ayeJBEJ5pa24w0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "815181421755-0v8cmrtc3q9juuh217419f03cr7p82ig.apps.googleusercontent.com",
+              "client_id": "378907704166-iegs4lmv9q40jpiq9ljuek7ve8r9gj68.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
